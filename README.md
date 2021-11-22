@@ -1,3 +1,1 @@
-Meu segundo Slider no repositorio
-
-Alteração no meu sistema 
+Versão 0.1
